@@ -1,32 +1,76 @@
-<h1 align="center">Hi 👋, I'm Nhat Tan Dao (ntannn)</h1>
-<h3 align="center">a noob coder from Ha Tinh high school for gifted. A student love CP.</h3>
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-- 🔭 I’m currently working on [CHTOJ](https://github.com/CHT-OJ/oj)
+<br/>
 
-- 🌱 I’m currently learning **CP, Python, Back-end**
+<center>
 
-- 👯 I’m looking to collaborate on [Portfolio](https://github.com/ntanthedev/Portfolio)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-- 🤝 I’m looking for help with **Back-end**
+</center>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ntanthedev?tab=repositories](https://github.com/ntanthedev?tab=repositories)
+<h3 align="center">
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+</h3>
 
-- 💬 Ask me about **Competitive Programing**
+## TL;DR
 
-- ⚡ Fun fact **I think i'm so dep trai :D**
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-[![ntannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntanthedev)](https://github.com/ntanthedev/github-readme-stats)
+## Built With
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntanthedev&layout=compact\&theme=radical)
+My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nhật-tân-đào-3283a42b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhật-tân-đào-3283a42b3/" height="30" width="40" /></a>
-<a href="https://fb.com/ntannn.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ntannn.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/ntan_dao_20.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntan_dao_20.09" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ntannn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ntannn_" height="30" width="40" /></a>
-<a href="https://discord.gg/ntannn_209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ntannn_209" height="30" width="40" /></a>
-</p>
+This project was built using these technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+
+**📱 Fully Responsive**
+
+## Getting Started
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
