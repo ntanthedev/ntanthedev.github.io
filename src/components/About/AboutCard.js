@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am student in <strong><span className="purple">Ha Tinh high school for Gifted student (CHT)</span></strong>.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            nah
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,17 +23,17 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Take a photo
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Design
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Cong Lu"{" "}
           </p>
-          <footer className="blockquote-footer">ntannn</footer>
+          <footer className="blockquote-footer">ngo teo quang</footer>
         </blockquote>
       </Card.Body>
     </Card>
