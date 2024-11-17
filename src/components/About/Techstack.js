@@ -10,6 +10,7 @@ import {
   DiGit,
   DiJava,
   DiHtml5,  // Add this
+  DiCss3 // Add this import
 } from "react-icons/di";
 import {
   SiRedis,
@@ -33,6 +34,10 @@ function Techstack() {
       {/* Add HTML skill */}
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
+      </Col>
+      {/* Add CSS skill */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
       </Col>
       {/* Add C skill */}
       <Col xs={4} md={2} className="tech-icons">
