@@ -26,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Take a photo
             </li>
             <li className="about-activity">
-              <ImPointRight /> Design
+              <ImPointRight /> Design something
             </li>
           </ul>
 
