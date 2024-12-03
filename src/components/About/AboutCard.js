@@ -31,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Cong Lu"{" "}
+            "Cong Luu"{" "}
           </p>
-          <footer className="blockquote-footer">ngo teo quang</footer>
+          <footer className="blockquote-footer">ngo teo quang?</footer>
         </blockquote>
       </Card.Body>
     </Card>
