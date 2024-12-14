@@ -6,10 +6,10 @@ import {
   SiSlack,
   SiVercel,
   SiMacos,
-  SiWindows,  // Add Windows
-  SiLinux,    // Add Linux
-  SiFigma     // Add Figma
-  // SiPhotoshop, // Add Photoshop
+  SiWindows,  
+  SiLinux,    
+  SiFigma     
+  // SiPhotoshop,
 } from "react-icons/si";
 
 function Toolstack() {
