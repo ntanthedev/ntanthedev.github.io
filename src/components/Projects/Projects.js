@@ -5,9 +5,9 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import chtoj from "../../Assets/Projects/chtoj.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import chtcoder from "../../Assets/Projects/chtcoder.png";
 
 function Projects() {
   return (
@@ -15,7 +15,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My <strong className="purple">Projects & Curricular CAtivities </strong>
+          My <strong className="purple">Projects & Curricular Ativities </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -23,10 +23,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={chtoj}
               isBlog={false}
               title="CHTOJ"
-              description="An Online Judge for Ha Tinh High school for Gifted student build with Django framework. "
+              description="Chuyen Ha Tinh Online Judge (CHTOJ) is an online judge website developed for students in the province, based on the DMOJ platform. The website was developed by 4 students at Ha Tinh High School for the Gifted (CHT). After nearly four months of operation, the website has attracted over 1,700 users and 115,000 submissions."
               ghLink="https://github.com/CHT-OJ/oj"
               demoLink="https://oj.thptchuyenhatinh.edu.vn/"
             />
@@ -34,10 +34,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={chtcoder}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="CHTCODER"
+              description="CHTCODER is the information technology club of Ha Tinh High School for the Gifted, established with the aim of developing the informatics movement in Ha Tinh province. Following the success of CHTOJ, realizing the potential of developing educational technology, I then scale up the CHTOJ team into CHTCODER club with the desire to empower more innovations from my school's students while nurturing young tech talents."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Shorter URL"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
