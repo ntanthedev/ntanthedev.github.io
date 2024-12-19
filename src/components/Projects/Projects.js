@@ -6,7 +6,7 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chtoj from "../../Assets/Projects/chtoj.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import neoteam from "../../Assets/Projects/neoteam.png";
 import chtcoder from "../../Assets/Projects/chtcoder.png";
 
 function Projects() {
@@ -35,7 +35,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chtcoder}
-              isBlog={false}
+              isBlog={true}
               title="CHTCODER"
               description="CHTCODER is the information technology club of Ha Tinh High School for the Gifted, established with the aim of developing the informatics movement in Ha Tinh province. Following the success of CHTOJ, realizing the potential of developing educational technology, I then scale up the CHTOJ team into CHTCODER club with the desire to empower more innovations from my school's students while nurturing young tech talents."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
@@ -45,16 +45,16 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Shorter URL"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              imgPath={neoteam}
+              isBlog={true}
+              title="News Team CHT"
+              description="News Team is the media club of Ha Tinh High School for the Gifted. This was the first club I joined upon my arrival at CHT. Currently, i'm vice prosident in there. "
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -67,7 +67,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={leaf}
               isBlog={false}
               title="Ai For Social Good"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
@@ -86,7 +86,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col> 
         </Row>
       </Container>
     </Container>
