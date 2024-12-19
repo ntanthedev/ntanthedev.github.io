@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.580c5d24.css",
+    "main.js": "/static/js/main.805056bc.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.svg": "/static/media/avatar.ab72f6ace1f063adeddcd63ccf97b83a.svg",
+    "static/media/neoteam.png": "/static/media/neoteam.6e6269b23f71a3cd6731.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/chtoj.png": "/static/media/chtoj.4ea04a02118f9d806ffb.png",
+    "static/media/chtcoder.png": "/static/media/chtcoder.7a277719938c2ac89601.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/logo.png": "/static/media/logo.3565bbfdfc1f7aadbd0f.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/shorterurl.png": "/static/media/shorterurl.3895e48e3e93624dc860.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.580c5d24.css.map": "/static/css/main.580c5d24.css.map",
+    "main.805056bc.js.map": "/static/js/main.805056bc.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580c5d24.css",
+    "static/js/main.805056bc.js"
+  ]
+}
