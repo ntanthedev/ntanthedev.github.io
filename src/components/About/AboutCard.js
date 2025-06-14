@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Take a photo
+              <ImPointRight /> Taking photos
             </li>
             <li className="about-activity">
               <ImPointRight /> Design something
@@ -31,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Cong Luu"{" "}
+            "I talked to myself that if someone more talented than myself studies 5 hours per day, I need to spend at least 10 hours if I hope to catch up with them someday."{" "}
           </p>
-          <footer className="blockquote-footer">ngo teo quang?</footer>
+          {/* <footer className="blockquote-footer">Nhat Tan Dao</footer> */}
         </blockquote>
       </Card.Body>
     </Card>
