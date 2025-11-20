@@ -16,7 +16,7 @@ function AchievementTimeline() {
                     thought: ""
                 },
                 {
-                    title: "80% Scholarship for Computer Science at VinUniversity",
+                    title: "80% Scholarship for Computer Science major at VinUniversity",
                     date: "2025",
                     thought: "A well-deserved result T-T."
                 },

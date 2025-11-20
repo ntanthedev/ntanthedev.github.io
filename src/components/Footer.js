@@ -25,7 +25,7 @@ function Footer() {
               <a
                 href="https://github.com/ntanthedev"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -35,7 +35,7 @@ function Footer() {
               <a
                 href="https://www.facebook.com/ntannn.dev"  // Replace with your Facebook URL
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaFacebook />
@@ -45,7 +45,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/nh%E1%BA%ADt-t%C3%A2n-%C4%91%C3%A0o-3283a42b3/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
