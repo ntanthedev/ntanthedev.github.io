@@ -8,6 +8,7 @@ import shorterurl from "../../Assets/Projects/shorterurl.png";
 import chtoj from "../../Assets/Projects/chtoj.png";
 import neoteam from "../../Assets/Projects/neoteam.png";
 import chtcoder from "../../Assets/Projects/chtcoder.png";
+import bamboo from "../../Assets/Projects/bamboo.png";
 
 function Projects() {
   return (
@@ -21,6 +22,17 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bamboo}
+              isBlog={false}
+              title="BambooLab"
+              description="BambooLab is an AI-powered online exam creation platform for educators. It allows teachers to upload documents (PDF, images, DOCX) and automatically generates multiple-choice questions using Google's Gemini AI. Features include automatic quiz generation, student score ranking, and comprehensive user management. Built with Django, Celery, and Docker."
+              ghLink="https://github.com/ntanthedev/bamboo"
+              // demoLink=""
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chtoj}
@@ -61,7 +73,7 @@ function Projects() {
               title="URL-Shorten-Worker"
               description="A URL shortener use for Cloudflare Workers using javascript. This is a serverless function that takes a long URL and returns a short URL. The short URL redirects to the original long URL. I customize it from crazypeace."
               ghLink="https://github.com/ntanthedev/Url-Shorten-Worker"
-              demoLink="https://ntannn.online/shorturl/"
+              demoLink="sink-me.pages.dev"
             />
           </Col>
 

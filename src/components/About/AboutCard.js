@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <strong><span className="purple">Đào Nhật Tân </span></strong>
             from <span className="purple"> Ha Tinh, Viet Nam.</span>
             <br />
-            I am student in <strong><span className="purple">Ha Tinh high school for Gifted student (CHT)</span></strong>.
+            Just Graduated from <strong><span className="purple">Ha Tinh high school for Gifted (CHT)</span></strong>.
             <br />
-            nah
+            I am a student who is passionate about programming and technology. I am currently learning to code and I am always looking for new opportunities to apply my skills.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Taking photos
+              <ImPointRight /> Watching movies
             </li>
             <li className="about-activity">
               <ImPointRight /> Design something

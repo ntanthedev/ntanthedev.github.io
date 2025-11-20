@@ -19,16 +19,16 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something, I think so… 🤷‍♂️
               <br />
               <br />I am fluent in 
               <i>
-                <b className="purple"> C++. </b>
+                <b className="purple"> C++, Python and Django. </b>
               </i>
               <br />
               <br /> I'm currently learning  
               <i>
-                <b className="purple"> Python, Front-end, Back-end Development. </b>
+                <b className="purple"> Machine Learning </b>
               </i>
               <br />
               <br />
@@ -66,7 +66,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Pls <span className="purple">connect </span>with me in
+              Please <span className="purple">connect </span>with me in
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
