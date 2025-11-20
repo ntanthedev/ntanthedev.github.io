@@ -1,76 +1,136 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <h1>ntannn.dev</h1>
+  <p>Personal portfolio website showcasing my projects, skills, and experience</p>
+
+  <a href="https://ntannn.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Live-ntannn.dev-c770f0?style=for-the-badge&logo=vercel" alt="Live Site" />
+  </a>
+  <img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-5.1.3-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
 </div>
 
 <br/>
 
-<center>
+<div align="center">
+  <img alt="Portfolio Preview" src="./Images/readme-img1.png" />
+</div>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+## About
 
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+A modern, responsive portfolio website built with React.js. Features animated particle backgrounds, smooth transitions, and a clean design to showcase projects and technical skills.
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **Multi-Page SPA** - Home, About, Projects, and Resume sections
+- **Responsive Design** - Optimized for all screen sizes
+- **Interactive Elements** - Particle animations, typewriter effects, 3D tilt cards
+- **GitHub Integration** - Live contribution calendar
+- **PDF Resume Viewer** - Built-in document viewer
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Tech Stack
 
-**📱 Fully Responsive**
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React 17, React Router 6, React Bootstrap |
+| **Styling** | Bootstrap 5, CSS3 |
+| **Animations** | tsparticles, react-parallax-tilt, typewriter-effect |
+| **Icons** | react-icons |
+| **PDF** | react-pdf |
+| **Deployment** | GitHub Pages |
 
-## Getting Started
+## Quick Start
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Prerequisites
 
-## 🛠 Installation and Setup Instructions
+- Node.js (v16 or higher)
+- npm or yarn
 
-1. Installation: `npm install`
+### Installation
 
-2. In the project directory, you can run: `npm start`
+```bash
+# Clone the repository
+git clone https://github.com/ntanthedev/ntanthedev.github.io.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+# Navigate to directory
+cd ntanthedev.github.io
 
-## Usage Instructions
+# Install dependencies
+npm install
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+# Start development server
+npm start
+```
 
-### Show your support
+The app will open at [http://localhost:3000](http://localhost:3000)
 
-Give a ⭐ if you like this website!
+## Available Scripts
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+| Command | Description |
+|---------|-------------|
+| `npm start` | Run development server |
+| `npm run build` | Create production build |
+| `npm test` | Run tests |
+| `npm run deploy` | Deploy to GitHub Pages |
+
+## Project Structure
+
+```
+src/
+├── components/
+│   ├── Home/          # Landing page
+│   ├── About/         # Skills, tools, experience
+│   ├── Projects/      # Portfolio projects
+│   ├── Resume/        # PDF resume viewer
+│   ├── Navbar.js      # Navigation
+│   ├── Footer.js      # Footer with socials
+│   └── Particle.js    # Background animation
+├── Assets/            # Images and files
+├── App.js             # Main app with routing
+└── style.css          # Global styles
+```
+
+## Customization
+
+### Update Personal Info
+- Home introduction: `src/components/Home/Home2.js`
+- About section: `src/components/About/AboutCard.js`
+- Typewriter text: `src/components/Home/Type.js`
+
+### Add Projects
+1. Add project image to `src/Assets/Projects/`
+2. Edit `src/components/Projects/Projects.js`
+3. Add new `<ProjectCards />` component
+
+### Modify Skills
+- Tech stack: `src/components/About/Techstack.js`
+- Tools: `src/components/About/Toolstack.js`
+
+### Update Social Links
+- Home: `src/components/Home/Home2.js`
+- Footer: `src/components/Footer.js`
+
+## Deployment
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+For custom domain, update the `CNAME` file with your domain.
+
+## Credits
+
+This portfolio is built upon the excellent template by [Soumyajit Behera](https://github.com/soumyajit4419/Portfolio). Thanks for the foundation!
+
+## License
+
+This project is open source and available for personal use. If you use this template, please provide attribution by linking back to:
+- [ntanthedev](https://github.com/ntanthedev)
+- [soumyajit4419](https://github.com/soumyajit4419/Portfolio) (original template)
+
+---
+
+<div align="center">
+  <sub>Built with React.js</sub>
+</div>
