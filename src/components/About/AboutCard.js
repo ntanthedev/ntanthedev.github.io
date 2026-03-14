@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <strong><span className="purple">Đào Nhật Tân </span></strong>
             from <span className="purple"> Ha Tinh, Viet Nam.</span>
             <br />
-            Just Graduated from <strong><span className="purple">Ha Tinh high school for Gifted (CHT)</span></strong>.
+            Just Graduated from <strong><span className="purple">Ha Tinh High School for the Gifted (CHT)</span></strong>.
             <br />
             I am a student who is passionate about programming and technology. I am currently learning to code and I am always looking for new opportunities to apply my skills.
             <br />
@@ -20,18 +20,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Solving CP problems
             </li>
             <li className="about-activity">
               <ImPointRight /> Watching movies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Design something
+              <ImPointRight /> Designing something
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "I talked to myself that if someone more talented than myself studies 5 hours per day, I need to spend at least 10 hours if I hope to catch up with them someday."{" "}
+            "If talented people study 5 hours, I must study 10 to catch up."{" "}
           </p>
           {/* <footer className="blockquote-footer">Nhat Tan Dao</footer> */}
         </blockquote>
