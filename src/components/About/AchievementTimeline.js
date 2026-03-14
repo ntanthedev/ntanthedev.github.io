@@ -3,13 +3,23 @@ import React from "react";
 function AchievementTimeline() {
     const timelineData = [
         {
-            year: "2025",
+            year: "2026",
             items: [
                 {
                     title: "My life is still updating...",
                     date: "Present",
                     thought: ""
                 },
+                {
+                    title: "80% Scholarship for Computer Science major at VinUniversity (2nd time)",
+                    date: "January 2026",
+                    thought: ""
+                }
+            ]
+        },
+        {
+            year: "2025",
+            items: [
                 {
                     title: "Graduated from Ha Tinh High School for the Gifted",
                     date: "2025",
