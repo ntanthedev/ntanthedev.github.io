@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>ntannn.dev</h1>
+  <h1>ntan.fyi</h1>
   <p>Personal portfolio website showcasing my projects, skills, and experience</p>
 
-  <a href="https://ntannn.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Live-ntannn.dev-c770f0?style=for-the-badge&logo=vercel" alt="Live Site" />
+  <a href="https://ntan.fyi" target="_blank">
+    <img src="https://img.shields.io/badge/Live-ntan.fyi-c770f0?style=for-the-badge&logo=vercel" alt="Live Site" />
   </a>
   <img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-5.1.3-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
